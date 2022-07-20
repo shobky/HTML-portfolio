@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#section1 {
+  background-color: rgb(10, 10, 10);
+  height: 125vh;
+  margin: auto;
+}
+#words {
+  color: white;
+}
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#words {
+  font-size: 4vh;
+  font-family: sans-serif;
+}
+.hintForDummies {
+  position: absolute;
+  color: rgb(228, 228, 228);
+  font-family: monospace;
+  font-size: 2vh;
+  letter-spacing: 1px;
+  top: 90vh;
+}

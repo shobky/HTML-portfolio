@@ -1,0 +1,111 @@
+
+@media (min-width: 420px) {
+    #section3{
+        background-color: rgb(241, 241, 241);
+        height: 160vh;
+        width:100%;
+        
+    }
+    .first-txt{
+        font-family: sans-serif;
+        font-size: 30px;
+        width:60vw;
+        margin-left: 5vw;
+    }
+    .creative {
+        color: rgb(255, 0, 221);
+    }
+    .second-txt{
+        font-family: sans-serif;
+        font-size: 30px;
+        width:60vw;
+        margin-top: 5vh;
+        margin-left: 5vw;
+    }
+    .hardWorker{
+        color: rgb(255, 0, 221);
+    }
+    .third-txt{
+        float: right;
+        position: relative;
+        bottom: 78vh;
+        font-size: 15px;
+        font-family: sans-serif;
+        width:30vw
+    }
+    .cv-box{
+        position: relative;
+        left: 68vw;
+        bottom: 62vh;
+        width:30vw;
+        height: 60vh;
+        overflow-y: scroll;
+    }
+    .cv{
+        font-size: 10px;
+        font-family: sans-serif;
+        margin-left: 5px;
+        padding: 5px;
+    
+    }
+    .colored-text{
+        color: rgb(34, 34, 145);
+    }
+}
+
+
+@media (max-width: 420px) {
+    #section3{
+        background-color: rgb(241, 241, 241);
+        height: 190vh;
+        width:100%;
+        
+    }
+    .first-txt{
+        margin-top: 10vh;
+        font-family: sans-serif;
+        font-size: 30px;
+        width:90vw;
+        margin-left: 5vw;
+    }
+    .creative {
+        color: rgb(255, 0, 221);
+    }
+    .second-txt{
+        font-family: sans-serif;
+        font-size: 30px;
+        width:90vw;
+        margin-top: 5vh;
+        margin-left: 5vw;
+    }
+    .hardWorker{
+        color: rgb(255, 0, 221);
+    }
+    .third-txt{
+        position: relative;
+        font-size: 25px;
+        margin-top: 9vh;
+        font-family: sans-serif;
+        width:80vw;
+        left: 5vw;
+
+    }
+    .cv-box{
+        position: relative;
+        left: 8vw;
+        width:85vw;
+        top: 2vh;
+        height: 80vh;
+        overflow-y: scroll;
+    }
+    .cv{
+        font-size: 22px;
+        font-family: sans-serif;
+        margin-left: 5px;
+        padding: 5px;
+    
+    }
+    .colored-text{
+        color: rgb(34, 34, 145);
+    }
+}
